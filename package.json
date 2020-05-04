@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-animeflb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julissa239/Proyecto-Animeflb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julissa239/Proyecto-Animeflb/issues"
+  },
+  "homepage": "https://github.com/julissa239/Proyecto-Animeflb#readme",
+  "description": ""
+}
